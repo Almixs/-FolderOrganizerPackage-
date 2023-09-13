@@ -15,8 +15,7 @@ The work of THE MIND HUNTERS team
 
     ```bash
     python assistant
-    
-    ```bash
+
     python3 assistant
 
 ## Important
