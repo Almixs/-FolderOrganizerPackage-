@@ -3,18 +3,17 @@ The work of THE MIND HUNTERS team
 
 ## Installation
 
-1. Navigate to the root directory of the project:
-   cd /path/to/-THE_MIND_HUNTERS-
+1. Navigate to the root directory of the project: /n
+   `cd /path/to/-THE_MIND_HUNTERS-`
 
-2. Install the package using pip:
-    pip install -e .
+2. Install the package using pip: /n
+    `pip install -e .`
 
-3. After installation, you can invoke the package from the command line using:
+3. After installation, you can invoke the package from the command line using: /n
 
-    python assistant
-
-
-    python3 assistant
+    `python assistant`
+    /n
+    `python3 assistant`
 
 ## Important
 
