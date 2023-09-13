@@ -14,16 +14,11 @@ The work of THE MIND HUNTERS team
 3. After installation, you can invoke the package from the command line using:
 
    ```bash
-    python assistant
-
-or
-
-    ```bash
-    python3 assistant
+    python assistant or python3 assistant
 
 ## Important
 
-`Running pip install -e . may require administrator privileges.`
+Running `pip install -e .` may require administrator privileges.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
