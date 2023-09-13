@@ -24,7 +24,6 @@ Running `pip install -e .` may require administrator privileges.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Write Number
-    ```bash
     ________________________________
     |          Main menu           |
     --------------------------------
@@ -35,9 +34,9 @@ Running `pip install -e .` may require administrator privileges.
     --------------------------------
 
 
-# -Address book-
+# -Address Book-
 
-<p align="center">This is a simple console-based assistant bot prototype that can manage contacts. It recognizes various commands and responds accordingly.</p>
+This is a simple console-based assistant bot prototype that can manage contacts. It recognizes various commands and responds accordingly.
 
 ## 💡 Usage
 
@@ -55,7 +54,7 @@ Running `pip install -e .` may require administrator privileges.
 
 # -Note Book-
 
-<p align="center">This is a simple console prototype of a helper bot that can manage notes. It recognizes different commands and reacts accordingly.</p>
+This is a simple console prototype of a helper bot that can manage notes. It recognizes different commands and reacts accordingly.
 
 ## 💡 Usage
 
@@ -72,7 +71,7 @@ Running `pip install -e .` may require administrator privileges.
 
 # -Sort Folder-
 
-<p align="center">This is a script created for sorting folders</p>
+This is a script created for sorting folders
 
 ## 💡 Usage
 
@@ -81,7 +80,7 @@ Running `pip install -e .` may require administrator privileges.
 
 # -Exit-
 
-<p align="center">Exit the assistant</p>
+Exit the assistant
 
 ## 💡 Usage
 
