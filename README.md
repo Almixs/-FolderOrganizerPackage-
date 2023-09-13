@@ -13,8 +13,11 @@ The work of THE MIND HUNTERS team
 
 3. After installation, you can invoke the package from the command line using:
 
-   ```bash
-    python assistant or python3 assistant
+    ```bash
+    python assistant
+    
+    ```bash
+    python3 assistant
 
 ## Important
 
