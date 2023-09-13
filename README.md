@@ -76,7 +76,7 @@ This is a script created for sorting folders
 ## 💡 Usage
 
 1. The bot will be waiting for your commands.
-    - `Path to folder`
+    - `Path to folder`: Write the path to the folder.
 
 # -Exit-
 
