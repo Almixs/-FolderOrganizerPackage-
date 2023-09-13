@@ -23,44 +23,67 @@ The work of THE MIND HUNTERS team
 Running `pip install -e .` may require administrator privileges.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Write Number
+    ```bash
+    ________________________________
+    |          Main menu           |
+    --------------------------------
+    |  1  |    Address book        |
+    |  2  |    Note book           |
+    |  3  |    Sort folder         |
+    |  4  |    Exit                |
+    --------------------------------
 
 
-
-
-# -Console Assistant Bot-
+# -Address book-
 
 <p align="center">This is a simple console-based assistant bot prototype that can manage contacts. It recognizes various commands and responds accordingly.</p>
 
-## 🚀 Features
+## 💡 Usage
 
-- Add a new contact with name and phone number.
-- Change the phone number of an existing contact.
-- Retrieve the phone number of a contact.
-- Display all saved contacts with their phone numbers.
-- End the interaction with the bot.
+1. The bot will be waiting for your commands.
+2. Available commands:
+
+   - `show all`: Show all contacts in Book.
+   - `add`: Add contact to Book.
+   - `find`: Find person in Book.
+   - `show bd`: Show persons with birthday.
+   - `edit`: Edit personal info.
+   - `del`: Delete personal info.
+   - `return`: Return to main menu .
+
+
+# -Note Book-
+
+<p align="center">This is a simple console prototype of a helper bot that can manage notes. It recognizes different commands and reacts accordingly.</p>
 
 ## 💡 Usage
 
-1. Run the script `main.py` in your console.
-2. The bot will be waiting for your commands.
-3. Available commands:
+1. The bot will be waiting for your commands.
+2. Available commands:
 
-   - `hello`: Greet the bot.
-   - `add [name] [phone] [birthday]`: Add a new contact with the specified name and phone number.
-   - `change [name] [phone]`: Change the phone number of an existing contact.
-   - `phone [name]`: Retrieve the phone number of a contact.
-   - `show all`: Display all saved contacts.
-   - `days to birthday` -> `[name]`: The number of days until the next birthday.
-   - `find` -> `[name]` or `[phone]`: Find contact.
-   - `good bye`, `close`, `exit`: End the interaction with the bot.
+   - `show all`: Show all contacts in Book.
+   - `add`: Add contact to Book.
+   - `find`: Find person in Book.
+   - `show bd`: Show persons with birthday.
+   - `edit`: Edit personal info.
+   - `del`: Delete personal info .
+   - `return`: Return to main menu .
 
-## 🛠️ Implementation Details
+# -Sort Folder-
 
-The bot uses a dictionary to store contacts, where the name is the key and the phone number is the value. The bot also handles input errors gracefully using the `input_error` decorator.
+<p align="center">This is a script created for sorting folders</p>
 
-## 🏃 Running the Bot
+## 💡 Usage
 
-To run the bot, make sure you have Python installed and execute the following command in your terminal:
+1. The bot will be waiting for your commands.
+    - `Path to folder`
 
-```bash
-python main.py
+# -Exit-
+
+<p align="center">Exit the assistant</p>
+
+## 💡 Usage
+
+1. The bot will be waiting for your commands.
+    - `exit`: Exit the assistant.
