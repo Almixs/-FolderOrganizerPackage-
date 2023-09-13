@@ -4,24 +4,23 @@ The work of THE MIND HUNTERS team
 ## Installation
 
 1. Navigate to the root directory of the project:
-    ```bash
    cd /path/to/-THE_MIND_HUNTERS-
 
-
-Install the package using pip:
-    ```bash
+2. Install the package using pip:
     pip install -e .
 
-After installation, you can invoke the package from the command line using:
+3. After installation, you can invoke the package from the command line using:
 
-    ```bash 
     python assistant
-    or
+
+
     python3 assistant
 
-Important
+## Important
 
-Running pip install -e . may require administrator privileges.
+`Running pip install -e . may require administrator privileges.`
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
